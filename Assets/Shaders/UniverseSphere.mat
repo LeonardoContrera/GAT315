@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UniverseSphere
+  m_Shader: {fileID: -6465566751694194690, guid: 34a97ef71c32e5d4585049073e368b44, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_4739f9dec07f442caea02d2fdde2b66b: 6
+    - Vector1_69829bcf34274c83a306178eb50b6310: 0.003
+    - Vector1_f34cc7076fdf46ee925862604d92c66d: 150
+    m_Colors:
+    - Color_b708a19ad1a545ff829a81a2b438470c: {r: 0.08266932, g: 0.3011639, b: 1.1841828, a: 0}
+    - Color_ced43ad09cef4ae4bfb678c20ef0e78c: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []
